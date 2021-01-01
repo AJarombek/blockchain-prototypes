@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-prototypes-ethereum-dapp",
+  "version": "0.1.0",
+  "description": "Ethereum Dapp Prototype",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJarombek/blockchain-prototypes.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "Blockchain",
+    "DApp",
+    "React"
+  ],
+  "author": "Andrew Jarombek",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "truffle": "^5.1.59"
+  },
+  "devDependencies": {}
+}

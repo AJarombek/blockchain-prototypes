@@ -6,7 +6,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract myMessage {
+contract MyMessage {
     // The public keyword creates a getter function for the state variable 'creator'.  In this case, the function is:
     // function creator() external view returns (address) { return creator; }
     address public creator;
