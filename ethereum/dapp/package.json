@@ -16,7 +16,6 @@
   "author": "Andrew Jarombek",
   "license": "ISC",
   "dependencies": {
-    "react": "^17.0.1",
     "truffle": "^5.1.59"
   },
   "devDependencies": {}

@@ -6,4 +6,5 @@ yarn
 
 $(npm bin)/truffle version
 $(npm bin)/truffle help
+$(npm bin)/truffle unbox react
 ```
